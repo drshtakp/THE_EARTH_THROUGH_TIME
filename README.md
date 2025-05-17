@@ -1,4 +1,4 @@
-## The Earth Through Time – Teaching Materials
+## The Earth Through Time
 
 This repository contains labs, and supplementary content for the course **The Earth Through Time**.
 
